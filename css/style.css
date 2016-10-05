@@ -1,0 +1,37 @@
+body{
+	background-color: #85C1E9;
+}
+
+.title {
+	font-family:Times New Roman;
+	background-image: ;
+	background-repeat: no-repeat;
+	font-size:30pt;
+	
+}
+
+.navigation{
+height:30px;
+background: grey;
+margin-top:0px;
+font-size: 20pt;
+
+    
+}
+
+.navigation a{
+color: white;
+text-decoration: none;
+    
+}
+
+
+.navigation ul{
+text-align: center;
+    
+}
+
+.navigation ul li{
+display: inline;
+padding: 50px;
+}
